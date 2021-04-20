@@ -1,3 +1,7 @@
 select*from policy
 add line in local new 
+<<<<<<< HEAD
 add line 6
+=======
+add line 5
+>>>>>>> 0ea7f4e3edbd5e5f92caefb02132ccc6cdf12cc1
