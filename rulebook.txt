@@ -1,3 +1,3 @@
 select*from policy
-add line in local rep 
-add line 3 
+add line in local new 
+add line 4
